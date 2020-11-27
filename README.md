@@ -1,16 +1,24 @@
-# database_storage
+Base de datos SQLite en Flutter
 
-A new Flutter application.
+Universidad de las Américas
 
-## Getting Started
+Materia: ITIN4210-4471 SEMINARIO DE SISTEMAS
 
-This project is a starting point for a Flutter application.
+Nombre: Andrea Armas
 
-A few resources to get you started if this is your first Flutter project:
+Contacto: andrea.armas.vargas@udla.edu.ec
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Descripcion:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+En este video se muestra una app desarrollada con Flutter, esta aplicación nos permite ingresar productos en una base de datos SQLite. Tenemos un formulario para ingresar el nombre y precio del producto. La aplicación cuenta con las operaciones crud, podemos crear un producto, leer la lista de productos, actualizar un producto y borrar un producto. La aplicación también calcula el precio final del producto, el cual es el precio del producto más el iva. 
+
+Herramientas:
+Android Studio
+
+Dependecias:
+
+sqflite: https://pub.dev/packages/sqflite
+path_provider: https://pub.dev/packages/path_provider
+
+Documentación de Flutter:
+https://flutter.dev/docs
